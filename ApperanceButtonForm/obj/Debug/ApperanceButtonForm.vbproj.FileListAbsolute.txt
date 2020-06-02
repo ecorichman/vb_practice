@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\TypeCheckForm\ApperanceButtonForm\bin\Debug\ApperanceButtonForm.exe.config
+C:\Users\user\source\repos\TypeCheckForm\ApperanceButtonForm\bin\Debug\ApperanceButtonForm.exe
+C:\Users\user\source\repos\TypeCheckForm\ApperanceButtonForm\bin\Debug\ApperanceButtonForm.pdb
+C:\Users\user\source\repos\TypeCheckForm\ApperanceButtonForm\bin\Debug\ApperanceButtonForm.xml
+C:\Users\user\source\repos\TypeCheckForm\ApperanceButtonForm\obj\Debug\ApperanceButtonForm.Form1.resources
+C:\Users\user\source\repos\TypeCheckForm\ApperanceButtonForm\obj\Debug\ApperanceButtonForm.Resources.resources
+C:\Users\user\source\repos\TypeCheckForm\ApperanceButtonForm\obj\Debug\ApperanceButtonForm.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\TypeCheckForm\ApperanceButtonForm\obj\Debug\ApperanceButtonForm.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TypeCheckForm\ApperanceButtonForm\obj\Debug\ApperanceButtonForm.exe
+C:\Users\user\source\repos\TypeCheckForm\ApperanceButtonForm\obj\Debug\ApperanceButtonForm.xml
+C:\Users\user\source\repos\TypeCheckForm\ApperanceButtonForm\obj\Debug\ApperanceButtonForm.pdb
